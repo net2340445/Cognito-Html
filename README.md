@@ -1,5 +1,5 @@
 # sampleFrontend4Cognito
-Get Cognito ID Token Sample
+### Get Cognito ID Token Sample
 
 Please modify only the first 3 lines of script.js below and open index.html in your browser.
 
@@ -11,7 +11,7 @@ const clientid = 'xxxxxxxxxxx';
 ・・・
 ```
 
-Use token
+### Use token
 
 参考：https://developer.mozilla.org/ja/docs/Learn/Forms/Sending_forms_through_JavaScript
 
