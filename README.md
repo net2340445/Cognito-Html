@@ -63,5 +63,4 @@ function sendData(data) {
 btn.addEventListener('click', () => {
   sendData({ test: 'ok' });
 })
-そして、結果は以下のとおりです。
 ```
